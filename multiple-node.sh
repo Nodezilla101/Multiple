@@ -51,5 +51,5 @@ echo "Binding account with ID: $IDENTIFIER and PIN: $PIN..."
 multiple-cli bind --bandwidth-download 100 --identifier $IDENTIFIER --pin $PIN --storage 200 --bandwidth-upload 100
 
 echo "Installation completed successfully!"
-echo "Channel Telegram: https://t.me/nodezilla101"
-echo "Channel Discord: https://discord.gg/RAEnTZSEVh"
+echo "Join Nodzillaz on Telegram: https://t.me/nodezilla101"
+echo "Join Nodzillaz on Discord: https://discord.gg/RAEnTZSEVh"
